@@ -1,2 +1,6 @@
-# firstEmbeddedLinuxProjeect
-Testing github for embedded linux using yocto and cora Z7 development board
+Purpose: Understand the basics of Tensorflow lite, Google colab and basic Neural networks on different Microcontrollers.
+
+Reference: TinyML- Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers by Pete Warden & Daniel Situnayake
+
+
+
