@@ -1,6 +1,9 @@
-Purpose: Understand the basics of Tensorflow lite, Google colab and basic Neural networks on different Microcontrollers.
+Purpose: Deploy different neural network models using tflite-micro on STM32F4 Discovery board
 
-Reference: TinyML- Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers by Pete Warden & Daniel Situnayake
+Summary: 
+
+Analyse Jena Climate Dataset, understand how it behaves, modify, standardise and then use for training Linear, Dense, Convolutional, Recurrent and LSTM neural networks.
+Then use pruning and quantization techniques for optimizing the models and compare their performances. 
 
 
 
